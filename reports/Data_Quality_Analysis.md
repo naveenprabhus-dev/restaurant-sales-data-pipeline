@@ -28,15 +28,16 @@
 - The exact duplicate values were found accross the records in the dataset.
 #
 - Using describe function we have obtained the numerical statistics of the numerical value columns present in the dataset.
-           Price       Quantity     Order Total
-count  16658.000000  17104.000000  17104.000000
-mean       6.586325      3.014149     19.914494
-std        4.834652      1.414598     18.732549
-min        1.000000      1.000000      1.000000
-25%        3.000000      2.000000      7.500000
-50%        5.000000      3.000000     15.000000
-75%        7.000000      4.000000     25.000000
-max       20.000000      5.000000    100.000000
+|      |     Price |   Quantity  |   Order Total |
+|----:|-----|-----|-----|
+|count  |16658.000000  |17104.000000 | 17104.000000|
+|mean   |   6.586325   |  3.014149   | 19.914494   |
+|std    |   4.834652   |  1.414598   | 18.732549   |
+|min    |   1.000000   |  1.000000   |  1.000000   |
+|25%    |   3.000000   |  2.000000   |  7.500000   |
+|50%    |   5.000000   |  3.000000   | 15.000000   |
+|75%    |   7.000000   |  4.000000   | 25.000000   |
+|max    |   20.000000  |   5.000000  | 100.000000  |
 -  We can clearly see the ranges for each and every numerical value columns in the dataset,Quantity ranges from 1 to 5, Price ranges from 1 to 20 and Order total ranges from 1 to 100.
 - The minimum values of all the three numerical value columns are positive values, no negative or values are there.
 - Order total has potential outliers, as the 3rd quartile is 25 while the max is 100.
