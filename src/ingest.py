@@ -1,0 +1,12 @@
+import pandas as pd
+df=pd.read_csv(r"Data\Raw\restaurant_sales_data.csv")
+print(df.shape)
+print(df.columns.tolist())
+print(df.head())
+print(df.tail())
+print(df.info())
+print(df.dtypes)
+print(df.isnull().sum())
+print(df.duplicated().sum())
+print(df.describe())
+print(df.nunique())
