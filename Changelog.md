@@ -13,3 +13,11 @@
 - Implemented basic dataset profiling
 - Created and completed the Data-quality analysis and documented the identified findings in reports\Data_Quality_Analysis.md file
 - committed and pushed the src\ingest.py and report\Data_Quality_Analysis file to github
+
+## Day 3 - Cleaning analysis and Plan
+- Created cleaning_analysis.py for cleaning stage investigations.
+- Created Cleaning_analysis_and_plan.md file to write the investigations.
+- Investigated missing feild patterns.
+- Documented the missing value findings for future cleaning decisions.
+- Committed and pushed today's work to github.
+
