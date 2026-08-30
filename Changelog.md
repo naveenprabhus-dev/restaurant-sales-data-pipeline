@@ -21,3 +21,10 @@
 - Documented the missing value findings for future cleaning decisions.
 - Committed and pushed today's work to github.
 
+## Day 4 - Cleaning Analysis and Plan 
+- Continued and completed the cleaning analysis
+- performed outliers analysis
+- Checked categorical Inconsistencies across Item,Category and payment method columns.
+- Documented the initial cleaning plan based on the extended analysis.
+- Created file **clean.py** and initiated cleaning process.
+- Committed and pushed the completed files cleaning_analysis_and_plan.md and cleaning_analysis.py, clean.py to github
