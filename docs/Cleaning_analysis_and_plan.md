@@ -25,6 +25,7 @@ The Order ID has 17534 unique values equal to the total number of records showin
 Checked for consistency across all the three main categorical value columns( Item, Payment method and category), The values are consistent across the whole dataset, there were no spelling,capitalization, formatting issues observed.
 #
 The date column has date is format yyyy-mm-dd, but the column is stored in format of string and there are no invalid dates found.
+#
 ## Cleaning Plan
 - The **446** records with missing price but available 'quantity' and 'Order total' can be used to reconstruct the missing price values.
 - The 430 records with multiple feilds missing requires seperate investigation before decision of removal or retention.
