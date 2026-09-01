@@ -28,3 +28,10 @@
 - Documented the initial cleaning plan based on the extended analysis.
 - Created file **clean.py** and initiated cleaning process.
 - Committed and pushed the completed files cleaning_analysis_and_plan.md and cleaning_analysis.py, clean.py to github
+
+## Day 5 - Cleaning 
+- Started the cleaning process
+- Created a copy of the original dataframe to work without making changes in the main data frame.
+- completed 446 missing **Price** values using order total and quantity.
+
+## Day 6 - Cleaning
