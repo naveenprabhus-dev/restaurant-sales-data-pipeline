@@ -35,3 +35,14 @@
 - completed 446 missing **Price** values using order total and quantity.
 
 ## Day 6 - Cleaning
+- Removed 430 records with majority of fields missing
+- Identified and filled 14 unique category + Price-> Item mappings
+- Reconstructed 771 records using unique mapping
+- Replaced the rest 557 Item records as unknown
+- Investigated the payment method with customer Id 
+- Confirmed customer Id couldn't help
+- Filled the missing payment methods with the most frequent payment method (cash)
+- Converted the Orderdate to datetime datatype in dd-mm-yyyy format
+- Completed the cleaning process
+- Exported an interim file Cleaned.csv
+- Commited and pushed onto github
