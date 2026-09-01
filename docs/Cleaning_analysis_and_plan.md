@@ -32,3 +32,12 @@ The date column has date is format yyyy-mm-dd, but the column is stored in forma
 - The identified 14 unique category+price combinations can potentially help in reconstructing the missing item values.
 - Changing the Order date column's datatype from string to datetime.
 - Perform a validation during cleaning for verifying the relationship between Price, Quantity and Order total before reconstructing the 446 price values.
+#
+## Performed Cleaning
+- Removed the 430 highly incomplete records where `Item`, `Price`, `Quantity`, and `Order Total` were all missing.
+- Reconstructed the 446 missing `Price` values using the available `Quantity` and `Order Total` values.
+- Used the 14 unique `Category + Price -> Item` mappings to reconstruct 771 missing `Item` values.
+- Replaced the remaining 557 unresolved `Item` values with `Unknown`.
+- Filled missing `Payment Method` values using the most frequent Payment Method in the dataset.
+- Converted the `Order Date` column from string to datetime using the `dd-mm-yyyy` format.
+- Exported the cleaned DataFrame as `02_cleaned.csv` in the interim data directory.
