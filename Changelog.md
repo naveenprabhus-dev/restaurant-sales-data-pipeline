@@ -33,6 +33,7 @@
 - Started the cleaning process
 - Created a copy of the original dataframe to work without making changes in the main data frame.
 - completed 446 missing **Price** values using order total and quantity.
+- committed and pushed the work to github.
 
 ## Day 6 - Cleaning
 - Removed 430 records with majority of fields missing
@@ -45,4 +46,12 @@
 - Converted the Orderdate to datetime datatype in dd-mm-yyyy format
 - Completed the cleaning process
 - Exported an interim file Cleaned.csv
-- Commited and pushed onto github
+- Commited and pushed to github
+
+## Day 7 - Transformation started
+- Checked the data quality of the created csv file cleaned.csv
+- Analysed the dataset and figured out possible transformation ideas in the cleaned dataset
+- Created a python file transform.py for doing transformation tasks
+- Initialized work in transform.py by adding the cleaned.py and created a dataframe
+- Converted the date to datetime datatype which is present as string datatype.
+- Committed and pushed the work to github.
