@@ -41,3 +41,6 @@ The date column has date is format yyyy-mm-dd, but the column is stored in forma
 - Filled missing `Payment Method` values using the most frequent Payment Method in the dataset.
 - Converted the `Order Date` column from string to datetime using the `dd-mm-yyyy` format.
 - Exported the cleaned DataFrame as `02_cleaned.csv` in the interim data directory.
+#
+## Output
+The cleaned dataset is exported as **cleaned.csv**.
