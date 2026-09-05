@@ -60,5 +60,13 @@
 - Completed the transformation work, created 4 new columns namely, 'Year', 'Month', 'Month_Name', 'Day of week'.
 - Created and complted Transformation.md which contains the transformation process performed.
 - Exported the transformed dataset as **transformed.csv**.
-- Created features.py and initialized the feature engineering process by loading the transformed dataset **transfromed.csv**.
+- Created feature_engineering.py and initialized the feature engineering process by loading the transformed dataset **transfromed.csv**.
 - Committed and pushed the work to github.
+
+## Day 9 - Feature engineering, Final validation checks and Final dataset export
+- Created 3 new features namely, 'Day Type','Order Total Category' and 'Quantity category'.
+- Completed Feature engineerinf and exported feature_engineered.csv
+- Created validate.py and performed final validation after feature engineering
+- verified the dataset fully including the features created.
+- exported the final analytics ready dataset as **Final_restaurant_sales.csv**
+- Completed the coding and data building phase of the restaurant sales data pipeline.
