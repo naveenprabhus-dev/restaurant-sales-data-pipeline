@@ -41,8 +41,7 @@ Raw Dataset -> Extract -> Analyze -> Clean -> Transform -> Feature Engineering -
 | Foundation | 1-3 | Project setup, Dataset understanding, Inspection and analysis of data quality. |  
 | Cleaning | 4-6 | Handling missing values, duplicates, datatypes and categorical cleaning |  
 | Transformation | 7-8 | Transformation, feature engineering and dataset export |  
-| Pipeline | 9-10 | Modularization, integration, testing and refactoring |  
-|Buffer and finalization | 11-12 | Finalisation, documentation and Project review |
+|Buffer and finalization | 9-11 | Finalisation, documentation and Project review |
 
 #
 ## Expected Outcomes
