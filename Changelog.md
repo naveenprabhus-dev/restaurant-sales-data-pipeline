@@ -70,3 +70,10 @@
 - verified the dataset fully including the features created.
 - exported the final analytics ready dataset as **Final_restaurant_sales.csv**
 - Completed the coding and data building phase of the restaurant sales data pipeline.
+
+## Day 10 - Project Report and documentation
+- Created and completed **Feature_engineering.md** to document the 3 engineered row level features.
+- Created and completed **Project_report.md** which contained report of the implemented Restaurant Sales Data pipeline.
+- Documented the total process and the findings in each step and also the dataset outcomes in each stage and also the final exported dataset to teh file **Project_report.md**.
+- Reviewed and verified each and every documentation and files as a final check.
+- Committed and pushed the Project_report.md and Feature_engineering.md to github.
