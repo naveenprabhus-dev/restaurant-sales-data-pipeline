@@ -1,5 +1,5 @@
 import pandas as pd
-df=pd.read_csv(r"Data\Raw\restaurant_sales_data.csv")
+df=pd.read_csv(r"Data/Raw/restaurant_sales_data.csv")
 print("The dimensions of the dataframe are:\n",df.shape)
 print("\nThe column names are:\n",df.columns.tolist())
 print("\nThe first 5 rows of the dataframe are:\n",df.head())
