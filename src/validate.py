@@ -1,6 +1,6 @@
 import pandas as pd
 def validate_data():
-    df=pd.read_csv(r"Data\Interim\feature_engineered.csv")
+    df=pd.read_csv(r"Data/Interim/feature_engineered.csv")
     print("Dataset loaded successfully")
     print(df.head())
 
