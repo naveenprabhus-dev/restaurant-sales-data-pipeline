@@ -17,10 +17,10 @@ The dataset contains **17,534 restaurant sales transactions** and was designed t
 The dataset contains following 9 columns, `OrderID`, `CustomerID`,`Category`,`Item`,`Price`,`Quantity`,`Order Total`,`Order date`,`Payment Method`.
 The dataset was obtained from Kaggle:
 - **Author:** Ahmed Mohamed
-- **Source:** Kaggle(https://www.kaggle.com/datasets/ahmedmohamed2003/restaurant-sales-dirty-data-for-cleaning-training)
--  **License:** This dataset is released under the CC BY-SA 4.0 License.(https://creativecommons.org/licenses/by-sa/4.0/)
+- **Source:** Kaggle (https://www.kaggle.com/datasets/ahmedmohamed2003/restaurant-sales-dirty-data-for-cleaning-training)
+-  **License:** This dataset is released under the CC BY-SA 4.0 License. (https://creativecommons.org/licenses/by-sa/4.0/)
 
-The dataset is used in accordance with its license.Appropriate credit is given to the original dataset creator.
+The dataset was cleaned, transformed and modified as part of the project. The original dataset creator is credited above, and the dataset is used in accordance with the CC BY-SA 4.0 license.
 
 ## Key Results
 - Processed 17,534 raw restaurant sales transactions.
