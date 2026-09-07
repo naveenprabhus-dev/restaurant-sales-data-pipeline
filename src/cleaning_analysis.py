@@ -63,7 +63,7 @@ print(df["Order Date"].head(20))
 print("\nNumber of unique Order Date values:")
 
 print(df["Order Date"].nunique())
-dates = pd.to_datetime(df["Order Date"])
+dates = pd.to_datetime(df["Order Date"],format="%d-%m-%Y")
 
 print("\nInvalid Order Date values:")
 print(dates.isnull().sum())
