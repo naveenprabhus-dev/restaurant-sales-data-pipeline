@@ -9,7 +9,7 @@ This feature classifies the each transaction based on the day of the week whethe
     - "Weekend" - Saturday and Sunday
 This feature helps in distinguishing between weekday and weekend sales with out further interpretation of the 'day of week' column
 
-### 2.Order Total Type
+### 2.Order Total Category
 - This feature groups the transaction based on the value of their Order Total.
 - Used the distribution of the order total value accross the table and divided it into, Low, Medium and High valued transactions.
 - These were done based on the quartiles of the Order Total column.
