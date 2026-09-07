@@ -77,3 +77,12 @@
 - Documented the total process and the findings in each step and also the dataset outcomes in each stage and also the final exported dataset to teh file **Project_report.md**.
 - Reviewed and verified each and every documentation and files as a final check.
 - Committed and pushed the Project_report.md and Feature_engineering.md to github.
+
+## Day 11 - Project Finalisation, Formatting, and Github preparation
+- Created **requirements.txt** with required python dependencies
+- Created **pipeline.py** to orchestrate the ETL workflow from cleaning till final dataset export
+- Updated the ETL scripts to support the pipeline execution
+- Completed and updated `README.md` with required informations
+- Reviewed thw whole project structure and files once finally
+- Prepared the repository for final Github review and project completion
+-  Completed the Restaurant Sales Data pipeline Project.
