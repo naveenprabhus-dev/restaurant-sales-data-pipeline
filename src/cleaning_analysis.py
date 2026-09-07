@@ -1,5 +1,5 @@
 import pandas as pd
-df=pd.read_csv(r"Data\Raw\restaurant_sales_data.csv")
+df=pd.read_csv(r"Data/Raw/restaurant_sales_data.csv")
 #Missing value pattern analysis
 print("\nQuantity and Order Total both missing:")
 print((df["Quantity"].isnull()&df["Order Total"].isnull()).sum())
