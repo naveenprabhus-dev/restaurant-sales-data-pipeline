@@ -3,8 +3,8 @@ This is a modular python and pandas ETL pipeline that processes a raw restaurant
 
 ## Project Overview
 The project is an end-to-end ETL workflow for restaurant sales transaction data.
-The pipeline processes the raw dataset through data quality analysis, cleaning, transformation, feature engineering and final validation and finally a analytics ready dataset.
-This project was build with a focus on data engineering using python and pandas.
+The pipeline processes the raw dataset through data quality analysis, cleaning, transformation, feature engineering and final validation and finally an analytics ready dataset.
+This project was built with a focus on data engineering using python and pandas.
 
 ## ETL Workflow
 Raw Dataset -> Data Quality Analysis -> Data Cleaning -> Data Transformation -> Feature engineering -> Final Validation -> Analytics Ready Dataset
