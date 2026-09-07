@@ -8,7 +8,8 @@ def engineer_features():
     df["Order Date"]=pd.to_datetime(df["Order Date"],format="%Y-%m-%d")
 
     #Day type feature
-    df["Day Type"]=df["Day of week"].apply(lambda x:"Weekend" if x in["Saturday","Sunday"] else "Weekday")
+    df["Day Type"] = "Weekday"
+    df.loc[df["Day of week"].isin(["Saturday", "Sunday"]),"Day Type"] = "Weekend"
     print(df[["Day of week","Day Type"]].head(10))
 
     #Order Value category feature
