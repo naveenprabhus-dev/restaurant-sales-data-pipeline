@@ -1,6 +1,6 @@
 import pandas as pd
 def clean_data():
-    df=pd.read_csv(r"Data\Raw\restaurant_sales_data.csv")
+    df=pd.read_csv(r"Data/Raw/restaurant_sales_data.csv")
     print("Raw datasetloaded successfully")
     #Created a copy to check once before working on the originl dataframe
     df_copy1= df.copy()
