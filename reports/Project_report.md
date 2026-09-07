@@ -49,7 +49,7 @@ The validation process was performed after feature engineering verify the final 
 The final dataset was validated whether they preserved the transaction records as the initial dataset and also was checked whether it was consistent after feature engineering as the previous dataset after transformation.
 #
 ## Final Dataset
-The final dataset contained **17,104 records** and 13 columns which is cleaned, transformed and feature engineered.
+The final dataset contained **17,104 records** and 16 columns which is cleaned, transformed and feature engineered.
 The final output is exported to **Data/Processed/Final_restaurant_sales.csv**.
 The fianl dataset is intended to be used as an analytics-ready dataset or as a foundation for future machine learning works.
 #
