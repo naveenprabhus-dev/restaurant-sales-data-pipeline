@@ -20,7 +20,7 @@ The dataset was obtained from Kaggle:
 - **Source:** Kaggle (https://www.kaggle.com/datasets/ahmedmohamed2003/restaurant-sales-dirty-data-for-cleaning-training)
 -  **License:** This dataset is released under the CC BY-SA 4.0 License. (https://creativecommons.org/licenses/by-sa/4.0/)
 
-The dataset was cleaned, transformed and modified as part of the project. The original dataset creator is credited above, and the dataset is used in accordance with the CC BY-SA 4.0 license.
+The original dataset was cleaned, transformed and modified as part of the project. The original dataset creator is credited above, and the dataset is used in accordance with the CC BY-SA 4.0 license.
 
 ## Key Results
 - Processed 17,534 raw restaurant sales transactions.
