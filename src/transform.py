@@ -1,6 +1,6 @@
 import pandas as pd
 def transform_data():
-    df=pd.read_csv(r"Data\Interim\cleaned.csv")
+    df=pd.read_csv(r"Data/Interim/cleaned.csv")
     print(df.head())
 
     df["Order Date"]=pd.to_datetime(df["Order Date"],format="%Y-%m-%d")
