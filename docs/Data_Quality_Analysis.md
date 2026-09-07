@@ -25,7 +25,7 @@
 - Item, price and payment method has higher missing values, relatively Quantity and Order total has lesser missing values than those 3.
 #
 ## Duplicate Values
-- The exact duplicate values were found accross the records in the dataset.
+- The exact duplicate values were found across the records in the dataset is 0.
 #
 - Using describe function we have obtained the numerical statistics of the numerical value columns present in the dataset.
   
