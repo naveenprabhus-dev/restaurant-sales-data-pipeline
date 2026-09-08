@@ -1,5 +1,5 @@
 
-# Restaurant Sales Data Pipeline 
+# Restaurant Sales ETL Pipeline 
 ## Project Overview
 
 The restaurant sales data pipeline is an end to end data engineering project designed to transfrom the raw restaurant sales dataset into a clean and analytics ready dataset.  
