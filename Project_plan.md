@@ -11,7 +11,7 @@ The raw hotel reservation dataset might contain missing values, duplicate record
 The project's main goal is to build a reusable pipelinethat can  handle data ingestion, validation, transformation and finally export the dataset that is suitable for analytics and machine learning.
 #
 ## Dataset Description
-**Name:** Restaurant Sales dataset with dirt  
+**Name:** Restaurant Sales Dirty Data For Cleaning And Training
 **Source:** Kaggle  
 **Format:** CSV  
 **Domain:** Restaurant/ Food  
